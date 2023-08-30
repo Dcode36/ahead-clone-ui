@@ -7,7 +7,7 @@ const selfimp = () => {
             <div className='d-flex flex-column '>
                 <div className="timeline-content ">
                     <p className="fw-bold ">Wrong with self-improvement & how we're fixing it.</p>
-                    <h1 className=''>Self-improvement. Ugh. <img src="/assets/2.png" alt="" /></h1>
+                    <h1  data-aos="fade-right">Self-improvement. Ugh. </h1>
                 </div>
 
 
